@@ -1,0 +1,3 @@
+[submodule "Assets/Plugins/SharedLib"]
+	path = Assets/Plugins/SharedLib
+	url = https://github.com/hot7585325/SharedLib.git
