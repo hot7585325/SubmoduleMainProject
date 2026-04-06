@@ -1,6 +1,0 @@
-[submodule "SharedLib"]
-	path = SharedLib
-	url = https://github.com/hot7585325/SharedLib.git
-[submodule "JS_Tool"]
-	path = JS_Tool
-	url = https://github.com/hot7585325/JS_Tool.git
